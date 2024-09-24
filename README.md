@@ -20,7 +20,7 @@ Welcome to my GitHub profile! I'm a passionate developer who enjoys building web
 - 🌐 Visit my [Portfolio](https://your-portfolio.com).
 
 ### GitHub Stats:
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=skipper999-ops&show_icons=true&theme=radical)
 
 ### Recent Projects:
 - 🚀 **[Project 1](#)** - A description of one of your recent projects.
